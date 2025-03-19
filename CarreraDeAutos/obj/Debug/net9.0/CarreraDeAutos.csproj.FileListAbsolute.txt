@@ -1,0 +1,14 @@
+C:\Users\DURAN\Desktop\CarreraDeAutos\bin\Debug\net9.0\CarreraDeAutos.exe
+C:\Users\DURAN\Desktop\CarreraDeAutos\bin\Debug\net9.0\CarreraDeAutos.deps.json
+C:\Users\DURAN\Desktop\CarreraDeAutos\bin\Debug\net9.0\CarreraDeAutos.runtimeconfig.json
+C:\Users\DURAN\Desktop\CarreraDeAutos\bin\Debug\net9.0\CarreraDeAutos.dll
+C:\Users\DURAN\Desktop\CarreraDeAutos\bin\Debug\net9.0\CarreraDeAutos.pdb
+C:\Users\DURAN\Desktop\CarreraDeAutos\obj\Debug\net9.0\CarreraDeAutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DURAN\Desktop\CarreraDeAutos\obj\Debug\net9.0\CarreraDeAutos.AssemblyInfoInputs.cache
+C:\Users\DURAN\Desktop\CarreraDeAutos\obj\Debug\net9.0\CarreraDeAutos.AssemblyInfo.cs
+C:\Users\DURAN\Desktop\CarreraDeAutos\obj\Debug\net9.0\CarreraDeAutos.csproj.CoreCompileInputs.cache
+C:\Users\DURAN\Desktop\CarreraDeAutos\obj\Debug\net9.0\CarreraDeAutos.dll
+C:\Users\DURAN\Desktop\CarreraDeAutos\obj\Debug\net9.0\refint\CarreraDeAutos.dll
+C:\Users\DURAN\Desktop\CarreraDeAutos\obj\Debug\net9.0\CarreraDeAutos.pdb
+C:\Users\DURAN\Desktop\CarreraDeAutos\obj\Debug\net9.0\CarreraDeAutos.genruntimeconfig.cache
+C:\Users\DURAN\Desktop\CarreraDeAutos\obj\Debug\net9.0\ref\CarreraDeAutos.dll
