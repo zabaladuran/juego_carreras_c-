@@ -1,99 +1,100 @@
-# 🏎️ Carrera de Autos en C#
+---
 
-Bienvenido a **Carrera de Autos**, un emocionante simulador de carreras desarrollado en **C#**. Este juego de consola permite a varios jugadores competir en diferentes pistas con condiciones climáticas variables y eventos inesperados. 
+# 🏎️ Car Racing in C#
+
+Welcome to **Car Racing**, an exciting racing simulator developed in **C#**. This console game allows multiple players to compete on different tracks with variable weather conditions and unexpected events.
 
 ---
 
-## 🔧 Características Principales
+## 🔧 Main Features
 
-- **Diferentes condiciones climáticas** (☀️ Soleado, 🌧️ Lluvia, ❄️ Nieve, 💨 Viento fuerte).
-- **Eventos aleatorios** como fallos mecánicos, pinchazos y turbo boost.
-- **Sistema de cuenta regresiva con sonidos** para una experiencia inmersiva.
-- **Representación gráfica en consola** de la pista y los autos.
-- **Tiempo de carrera dinámico** con efectos del clima y terreno.
-
----
-
-## 📚 Requisitos
-
-Para ejecutar este programa, necesitas:
-
-- .NET 6.0 o superior
-- Un terminal de consola compatible con C#
+- **Different weather conditions** (☀️ Sunny, 🌧️ Rain, ❄️ Snow, 💨 Strong wind).  
+- **Random events** like mechanical failures, flat tires, and turbo boosts.  
+- **Countdown system with sounds** for an immersive experience.  
+- **Console graphic representation** of the track and cars.  
+- **Dynamic race timing** with weather and terrain effects.
 
 ---
 
-## 🛠️ Instalación y Ejecución
+## 📚 Requirements
 
-1. Clona este repositorio:
+To run this program, you need:
+
+- .NET 6.0 or higher  
+- A console terminal compatible with C#
+
+---
+
+## 🛠️ Installation and Execution
+
+1. Clone this repository:  
    ```sh
    git clone https://github.com/zabaladuran/juego_carreras_c-.git
    ```
-2. Accede al directorio:
+2. Access the directory:  
    ```sh
    cd carrera-de-autos
    ```
-3. Compila el código:
+3. Build the code:  
    ```sh
    dotnet build
    ```
-4. Ejecuta la carrera:
+4. Run the race:  
    ```sh
    dotnet run
    ```
 
 ---
 
-## 💪 Cómo Jugar
+## 💪 How to Play
 
-1. **Selecciona la cantidad de jugadores** y sus autos.
-2. **Observa la cuenta regresiva** y prepárate para la acción.
-3. **Supera los obstáculos del clima y la pista**.
-4. **Llega a la meta y revisa los resultados finales**.
+1. **Select the number of players** and their cars.  
+2. **Watch the countdown** and get ready for action.  
+3. **Overcome the weather and track obstacles**.  
+4. **Reach the finish line and check the final results**.
 
 ---
 
-## 🏆 Ejemplo de Ejecución
+## 🏆 Execution Example
 
 ```
-⚡ Juan sufrió un fallo mecánico y su velocidad bajó!
-🚗 Mario activó un Turbo Boost y aceleró!
-🏁 ¡Carrera Finalizada!
-🥇 ¡Ganador! Mario con 🚗
-🏎️ Vehículo: Ferrari - 🚗
-💡 Velocidad Final: 120 km/h
-📏 Kilómetros Recorridos: 10.5 km
+⚡ Juan suffered a mechanical failure and his speed dropped!
+🚗 Mario activated a Turbo Boost and sped up!
+🏁 Race Finished!
+🥇 Winner! Mario with 🚗
+🏎️ Vehicle: Ferrari - 🚗
+💡 Final Speed: 120 km/h
+📏 Distance Covered: 10.5 km
 ```
 
 ---
 
-## 🛠️ Personalización
+## 🛠️ Customization
 
-Puedes modificar:
-- **La cantidad de jugadores** y autos.
-- **Las pistas** y sus características.
-- **Las condiciones climáticas y eventos**.
-
----
-
-## 💪 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar el proyecto:
-- Realiza un **fork** del repositorio.
-- Crea una **rama nueva** (`feature-nueva-funcionalidad`).
-- Envía un **pull request**.
+You can modify:
+- **The number of players** and cars.  
+- **The tracks** and their features.  
+- **The weather conditions and events**.
 
 ---
 
-## 🌐 Autor
+## 💪 Contributions
+
+Contributions are welcome! If you want to improve the project:
+- Make a **fork** of the repository.  
+- Create a **new branch** (`feature-new-functionality`).  
+- Submit a **pull request**.
+
+---
+
+## 🌐 Author
 
 **Zabaladuran** - [GitHub](https://github.com/zabaladuran)
 
-Si te gustó el proyecto, ¡deja una estrella ⭐ en GitHub!
+If you liked the project, leave a star ⭐ on GitHub!
 
 ---
 
-¡Diviértete corriendo en la pista! 🏎️🚀
 
 # Vista previa C#
 ![img 1](https://github.com/user-attachments/assets/c7206ef0-3829-40a6-82d4-0ecdfe141c13)
